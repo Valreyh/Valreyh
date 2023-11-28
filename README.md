@@ -4,7 +4,10 @@
 Hey 👋 Welcome to my profile, my name is Théo and I'm a Junior Developer from France. I'm currently in my third year in IT University and aim to go to a Master degree after that. I like to discover new tech and create cool stuff.
 <br/>
 <br/>
-➤ 🎯 Aim to develop an application and found a startup in the future
+🎯 Aim to develop a big thing and found a startup in the future
+<br/>
+<br/>
+🏹 Interested in backend, video games and addicted to gaming obviously
 <br/>
 <br/>
 
@@ -31,3 +34,5 @@ Hey 👋 Welcome to my profile, my name is Théo and I'm a Junior Developer from
 # 📱 Socials
 
 ![Twitter @Valreyh_](https://img.shields.io/badge/Twitter-lightblue?style=for-the-badge&logo=twitter&logoColor=white) ![Follow @valreyh](https://img.shields.io/static/v1?label=&message=Follow+%40valreyh&color=gray&style=for-the-badge&logo=github&logoColor=white)
+
+
