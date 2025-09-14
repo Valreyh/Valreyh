@@ -1,7 +1,7 @@
 ![Logo](https://i.imgur.com/fNgtxEm.png)
 
 <br/>
-Hey 👋 Welcome to my profile, my name is Théo and I'm a Junior Developer from France. I'm currently in my third year in IT University and aim to go to a Master degree after that. I like to discover new tech and create cool stuff.
+Hey 👋 Welcome to my profile, my name is Théo and I'm a Junior Developer from France. Currently in a Master degree. I like to discover new tech and create cool stuff.
 <br/>
 <br/>
 🎯 Aim to develop a big thing and found a startup in the future
@@ -30,9 +30,5 @@ Hey 👋 Welcome to my profile, my name is Théo and I'm a Junior Developer from
 | Tests | Containers | Others |
 |:-----:|:----------:|:------:|
 | ![postman](https://img.shields.io/badge/postman-orange?style=for-the-badge&logo=postman&logoColor=white) | ![docker](https://img.shields.io/badge/docker-blue?style=for-the-badge&logo=docker&logoColor=white) | ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white) |
-
-# 📱 Socials
-
-![Twitter @Valreyh_](https://img.shields.io/badge/Twitter-lightblue?style=for-the-badge&logo=twitter&logoColor=white) ![Follow @valreyh](https://img.shields.io/static/v1?label=&message=Follow+%40valreyh&color=gray&style=for-the-badge&logo=github&logoColor=white)
 
 
